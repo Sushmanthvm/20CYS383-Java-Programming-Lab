@@ -14,9 +14,9 @@ reset passwords. </p>
 
 | Name | Topic |
 | ---- | ----|
-| Gokulachelvan |             |
-| Sushmanth.V.M |              |
-| Vivek Veera.M.C |            |
+| Gokulachselvan.C.D | Login page and File handling in APMS page |
+| Sushmanth.V.M | Full APMS Page |
+| Vivek Veera.M.C | Forget password page and Access controll in APMS page |
 
 ### Codes
 
@@ -510,8 +510,8 @@ public class ForgotPasswordForm extends JFrame {
 
 ### DEMO VIDEO
 
-#### Adminstrator
+#### Demo of Adminstrator's access
 <img src="./image/admin.gif">
 
-#### Students
+#### Demo of Student's access
 <img src="./image/student.gif">
