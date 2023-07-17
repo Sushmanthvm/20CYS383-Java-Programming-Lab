@@ -16,7 +16,7 @@ reset passwords. </p>
 | ---- | ----|
 | Gokulachselvan.C.D | Login page and File handling in APMS page |
 | Sushmanth.V.M | Full APMS Page |
-| Vivek Veera.M.C | Forget password page and Access controll in APMS page |
+| Vivek Veera.M.C | Forget password page and Access control in APMS page |
 
 ### Codes
 
@@ -495,7 +495,7 @@ public class ForgotPasswordForm extends JFrame {
 ### DEMO 
 
 #### Login Page 
-<p>Both adminstator and student has the same login page</p>
+<p>Both adminstator and student have the same login page</p>
 <center> <img src="./image/Login Page.png"></center>
 
 #### Dashboard page of Adminstrator
