@@ -63,7 +63,6 @@ public class APMS extends JFrame {
 
     /**
      * Creates a new instance of the APMS class.
-     *
      * @param isAdminUser a boolean indicating whether the user is an admin or not
      */
     public APMS(Boolean isAdminUser) {
